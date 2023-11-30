@@ -1,0 +1,26 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo-fijo {
+    background: url('facebook.jpg') center/cover no-repeat fixed; 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.contenido {
+    text-align: center;
+}
+
+.otro-contenido {
+  
+    padding: 20px;
+}
+
+h1, p {
+    margin: 0;
+}

@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 140, 217);
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .color-named {
+    color: red; 
+  }
+  
+  .color-hex {
+    color: #00ff00; 
+  }
+  
+  .color-rgb {
+    color: rgb(0, 0, 255); 
+  }
+  

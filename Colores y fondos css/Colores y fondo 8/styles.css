@@ -1,0 +1,21 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.gradient-background {
+    background: linear-gradient(to right, #3dff95, #f63434); 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.content {
+    text-align: center;
+}
+
+h1, p {
+    margin: 0;
+}
